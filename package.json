@@ -1,0 +1,25 @@
+{
+  "name": "apiwithjwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dheerajaktu/APIwithJWT.git"
+  },
+  "author": "\"Dheeraj Sharma\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dheerajaktu/APIwithJWT/issues"
+  },
+  "homepage": "https://github.com/Dheerajaktu/APIwithJWT#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mssql": "^7.1.0",
+    "sequelize": "^6.6.2"
+  }
+}
